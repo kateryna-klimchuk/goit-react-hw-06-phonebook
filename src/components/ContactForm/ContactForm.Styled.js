@@ -7,7 +7,7 @@ export const Form = styled.form`
   row-gap: 20px;
   border: 1px solid gray;
   border-radius: 5px;
-  padding: 30px 40px;
+  padding: 20px 30px;
   font-size: 20px;
   background-color: rgb(249, 248, 247);
 `;
@@ -21,8 +21,7 @@ export const Input = styled.input`
 
 export const Label = styled.label`
   margin: 0;
-  padding: 20px;
-  font-size: 30px;
+  font-size: 20px;
 `;
 
 export const FormButton = styled.button`

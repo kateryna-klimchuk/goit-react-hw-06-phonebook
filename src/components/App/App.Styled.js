@@ -3,13 +3,13 @@ import styled from 'styled-components';
 export const Title = styled.h1`
   margin: 0;
   padding: 20px;
-  font-size: 40px;
+  font-size: 30px;
 `;
 
 export const SectionName = styled.h2`
   margin: 0;
-  padding: 20px;
-  font-size: 40px;
+  padding-top: 10px;
+  font-size: 24px;
 `;
 
 export const Container = styled.div`
@@ -18,7 +18,7 @@ export const Container = styled.div`
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    padding: 50px;
+    padding: 20px;
     margin-left: auto;
     margin-right: auto;
     font-size: 30px;
